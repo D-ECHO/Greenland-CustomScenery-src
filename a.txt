@@ -1,0 +1,47 @@
+BGAQ	QUV	Aappilattoq Heliport (Kujalleq)	[17]						!
+BGAG	AOQ	Aappilattoq Heliport (Avannaata)	(non-IATA identifier: AAP)	[18]	!
+BGAK		Akunnaaq Heliport	[19]							!
+BGAP	LLU	Alluitsup Paa Heliport	[20]							!
+BGAS	QUW	Ammassivik Heliport	[21]							!
+BGAR	JRK	Arsuk Heliport	[22]								!
+BGAT		Attu Heliport	[23]								!
+BGET	QFG	Eqalugaarsuit Heliport	[24]							!
+BGIG		Iginniarfik Heliport	[25]							!
+BGIT		Ikamiut Heliport	[26]							!
+BGIK		Ikerasaarsuk Heliport	[27]							!
+BGIA		Ikerasak Heliport			(non-IATA identifier: IKE)	[28]	!
+BGIL		Ilimanaq Heliport	[29]							!
+BGLL	IOT	Illorsuit Heliport								!
+BGIN	IUI	Innaarsuit Heliport	[31]							!
+BGIS		Isortoq Heliport	(non-IATA identifier: IOQ)	[32]			!
+BGSC	OBY	Ittoqqortoormiit Heliport	[33]						!
+BGKA		Kangaatsiaq Heliport	[34]							!
+BGKS	KGQ	Kangersuatsiaq Heliport	(non-IATA identifier: KAQ)	[35]			!
+BGKT		Kitsissuarsuit Heliport	[36]							!
+BGKQ	KHQ	Kullorsuaq Heliport	(non-IATA identifier: KLQ)	[37]			!
+BGKM		Kuummiit Heliport	[38]							!
+BGNL		Nalunaq Heliport	[39]							!
+BGNN	JNN	Nanortalik Heliport	[40]							!
+BGNS	JNS	Narsaq Heliport	[41]								!
+BGFD	QFN	Narsaq Kujalleq Heliport	[42]						!
+BGNK		Niaqornaarsuk Heliport	[43]							!
+BGNT	NIQ	Niaqornat Heliport	[44]							!
+BGNQ	JUU	Nuugaatsiaq Heliport	(non-IATA identifier: NUG)	[45]			!
+BGNU	NSQ	Nuussuaq Heliport	(non-IATA identifier: NUS)	[46]			!
+BGJH	JJU	Qaqortoq Heliport	[47]
+BGCH	JCH	Qasigiannguit Heliport	[48]
+BGQT	QJH	Qassimiut Heliport	[49]
+BGQE		Qeqertaq Heliport	(non-IATA identifier: QQT)	[50]
+BGGN	JGO	Qeqertarsuaq Heliport	[51]
+BGST	SAE	Saattut Heliport	(non-IATA identifier: SAA)	[52]
+BGSQ		Saqqaq Heliport	(non-IATA identifier: QUP)	[53]
+BGSV	SVR	Savissivik Heliport	[54]
+BGSG		Sermiligaaq Heliport	[55]
+BGSI	SRK	Siorapaluk Heliport	[56]
+BGAM	AGM	Tasiilaq Heliport (Ammassalik Heliport)	[57]
+BGTQ		Tasiusaq Heliport (Kujalleq)	[58]
+BGTA	TQA	Tasiusaq Heliport (Qaasuitsup)	[59]
+BGTN	TQI	Tiniteqilaaq Heliport	[60]
+BGUT	JUK	Ukkusissat Heliport	(non-IATA identifier: UKK)	[61]
+BGKL		Upernavik Kujalleq Heliport	(non-IATA identifier: UPK)	[62]
+BGUM	UMD	Uummannaq Heliport	[63]

@@ -1,0 +1,7 @@
+work
+output
+data/SRTM-3
+groundnet/aptdat2sqlite.py
+groundnet/legacy-groundnets-icao.lst
+groundnet/sqlite2xml.py
+data/shapefiles/raw_osm

@@ -1,0 +1,94 @@
+source: https://en.wikipedia.org/wiki/List_of_airports_in_Greenland
+
+BGAA	JEG	Aasiaat Airport
+BGBW	UAK	Narsarsuaq Airport (Narsarsuaq Air Base)
+BGCO	CNP	Nerlerit Inaat Airport (Constable Pynt Airport)
+BGGH	GOH	Nuuk Airport
+BGJN	JAV	Ilulissat Airport
+BGKK	KUS	Kulusuk Airport
+BGMQ	JSU	Maniitsoq Airport
+BGPT	JFR	Paamiut Airport
+BGQQ	NAQ	Qaanaaq Airport
+BGSF	SFJ	Kangerlussuaq Airport (Sondrestrom Air Base)
+BGSS	JHS	Sisimiut Airport
+BGTL	THU	Thule Air Base
+BGUK	JUV	Upernavik Airport
+BGUQ	JQA	Qaarsut Airport (Uummannaq Airport)
+
+
+BGDB		Daneborg Airport
+BGDH		Danmarkshavn Airport		no reference
+BGNO		Nord Station
+		EastGRIP			position unknown
+		Summit Station			no reference
+BGMV 		Mestersvig
+
+
+Heliports
+The following 47 heliports are listed under AD 4 HELIPORTS at Naviair.[16]
+
+BGA*: only BGAA
+BGI*: none
+BGS*: only BGSS and BGSF
+BGK*: only BGKK
+BGN*: only BGNO
+BGF*: none
+BGQ*: only BGQQ
+BGT*: only BGTL
+BGU*: only BGUK and BGUQ
+
+BGAG    AOQ     Aappilattoq Heliport (Avannaata)        (non-IATA identifier: AAP)      [18]    to be uploaded
+BGAK            Akunnaaq Heliport       [19]                                                   	to be uploaded
+BGAM    AGM     Tasiilaq Heliport (Ammassalik Heliport) [57]					only ref. OSM; done based on textual info
+BGAP    LLU     Alluitsup Paa Heliport  [20]                                                    to be uploaded
+BGAQ    QUV     Aappilattoq Heliport (Kujalleq) [17]                                            !
+BGAR    JRK     Arsuk Heliport  [22]                                                            !
+BGAS    QUW     Ammassivik Heliport     [21]                                                    !
+BGAT            Attu Heliport   [23]                                                            !
+BGCH    JCH     Qasigiannguit Heliport  [48]							!
+BGET    QFG     Eqalugaarsuit Heliport  [24]                                                    to be uploaded
+BGFD    QFN     Narsaq Kujalleq Heliport        [42]                                            to be uploaded
+BGGN    JGO     Qeqertarsuaq Heliport   [51]							!
+BGIA            Ikerasak Heliport                       (non-IATA identifier: IKE)      [28]    !
+BGIG            Iginniarfik Heliport    [25]                                                    !
+BGIK            Ikerasaarsuk Heliport   [27]                                                    !
+BGIL            Ilimanaq Heliport       [29]                                                    !
+BGIN    IUI     Innaarsuit Heliport     [31]                                                    !
+BGIS            Isortoq Heliport        (non-IATA identifier: IOQ)      [32]                    !
+BGIT            Ikamiut Heliport        [26]                                                    !
+BGJH    JJU     Qaqortoq Heliport       [47]							to be uploaded
+BGKA            Kangaatsiaq Heliport    [34]                                                    !
+BGKL            Upernavik Kujalleq Heliport     (non-IATA identifier: UPK)      [62]		!
+BGKM            Kuummiit Heliport       [38]                                                    !
+BGKQ    KHQ     Kullorsuaq Heliport     (non-IATA identifier: KLQ)      [37]                    !
+BGKS    KGQ     Kangersuatsiaq Heliport (non-IATA identifier: KAQ)      [35]                    !
+BGKT            Kitsissuarsuit Heliport [36]                                                    !
+BGLL    IOT     Illorsuit Heliport                                                              !
+BGNK            Niaqornaarsuk Heliport  [43]                                                    !
+BGNL            Nalunaq Heliport        [39]                                                    !
+BGNN    JNN     Nanortalik Heliport     [40]                                                    to be uploaded
+BGNQ    JUU     Nuugaatsiaq Heliport    (non-IATA identifier: NUG)      [45]                    !
+BGNS    JNS     Narsaq Heliport [41]                                                            to be uploaded
+BGNT    NIQ     Niaqornat Heliport      [44]                                                    !
+BGNU    NSQ     Nuussuaq Heliport       (non-IATA identifier: NUS)      [46]                    !
+BGQE            Qeqertaq Heliport       (non-IATA identifier: QQT)      [50]			!
+BGQT    QJH     Qassimiut Heliport      [49]							!
+BGSC    OBY     Ittoqqortoormiit Heliport       [33]						!
+BGSG            Sermiligaaq Heliport    [55]							!
+BGSI    SRK     Siorapaluk Heliport     [56]							!
+BGSQ            Saqqaq Heliport (non-IATA identifier: QUP)      [53]				!
+BGST    SAE     Saattut Heliport        (non-IATA identifier: SAA)      [52]			!
+BGSV    SVR     Savissivik Heliport     [54]							!
+BGTA    TQA     Tasiusaq Heliport (Qaasuitsup)  [59]						!
+BGTN    TQI     Tiniteqilaaq Heliport   [60]							!
+BGTQ            Tasiusaq Heliport (Kujalleq)    [58]						!
+BGUM    UMD     Uummannaq Heliport      [63]							!
+BGUT    JUK     Ukkusissat Heliport     (non-IATA identifier: UKK)      [61]			!
+
+
+The following four heliports are not listed by Naviair.
+
+BGIO	QFX	Igaliku Heliport	[64]							!
+BGGD	JGR	Kangilinnguit Heliport								!
+BGMO		Moriusaq Heliport								!
+BGSO	QOQ	Saarloq Heliport	[65]							!
