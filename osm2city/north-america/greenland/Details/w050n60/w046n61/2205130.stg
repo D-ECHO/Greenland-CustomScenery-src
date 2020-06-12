@@ -1,0 +1,9 @@
+# piers_w050n60_w046n61_2205130
+# do not edit below this line
+# Last Written Thu Jun 11 20:18:36 2020
+#
+OBJECT_STATIC w050n60_w046n61_2205130piers0101.ac -45.44427 61.15192 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -45.43421 61.14462 -0.00 112.615
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -45.43427 61.14494 -0.00 81.6045
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -45.43435 61.14513 -0.00 18.4986
+# END piers_w050n60_w046n61_2205130

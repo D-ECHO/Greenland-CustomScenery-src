@@ -1,12 +1,14 @@
-ogr-decode --max-segment 500 --line-width 12 --area-type Asphalt work/Asphalt data/shapefiles/osm_motorway/
-ogr-decode --max-segment 500 --line-width 10 --area-type Asphalt work/Asphalt data/shapefiles/osm_trunk/
 ogr-decode --max-segment 500 --line-width 8 --area-type Asphalt work/Asphalt data/shapefiles/osm_primary/
 ogr-decode --max-segment 500 --line-width 6.5 --area-type Asphalt work/Asphalt data/shapefiles/osm_secondary/
 ogr-decode --max-segment 500 --line-width 5 --area-type Asphalt work/Asphalt data/shapefiles/osm_tertiary/
 ogr-decode --max-segment 500 --line-width 5 --area-type Asphalt work/Asphalt data/shapefiles/osm_other_roads/
+ogr-decode --max-segment 500 --line-width 3 --area-type Dirt work/Dirt data/shapefiles/osm_track/
+ogr-decode --max-segment 500 --line-width 1.5 --area-type Dirt work/Dirt data/shapefiles/osm_path/
+
 ogr-decode --max-segment 500 --line-width 3 --area-type Stream work/Stream data/shapefiles/osm_stream/
 ogr-decode --max-segment 500 --line-width 8 --area-type Stream work/Stream data/shapefiles/osm_river/
 ogr-decode --max-segment 500 --line-width 6 --area-type Railroad work/Railroad data/shapefiles/osm_railway/
+
 ogr-decode --max-segment 500 --area-type Industrial work/Industrial data/shapefiles/osm_industrial/
 ogr-decode --max-segment 500 --area-type Commercial work/Commercial data/shapefiles/osm_commercial/
 ogr-decode --max-segment 500 --area-type Construction work/Construction data/shapefiles/osm_construction/

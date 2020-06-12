@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Small_Executive_Aircraft" lat="N68 43.223406" lon="W52 47.520699" heading="258.31"  radius="10" pushBackRoute="3" airlineCodes="" />
+        <Parking index="1" type="gate" name="Small_Executive_Aircraft" lat="N68 43.233260" lon="W52 47.525811" heading="258.31"  radius="10" pushBackRoute="3" airlineCodes="" />
+        <Parking index="2" type="gate" name="Small_Commercial_Liners" lat="N68 43.212679" lon="W52 47.587521" heading="-11.53"  radius="18" pushBackRoute="3" airlineCodes="" />
+ </parkingList>
+ <TaxiNodes>
+        <node index="3" lat="N68 43.231009" lon="W52 47.576024" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="4" lat="N68 43.272747" lon="W52 47.591358" isOnRunway="0" holdPointType="none"  />
+        <node index="5" lat="N68 43.267599" lon="W52 47.604008" isOnRunway="0" holdPointType="none"  />
+        <node index="6" lat="N68 43.260921" lon="W52 47.604775" isOnRunway="0" holdPointType="none"  />
+        <node index="7" lat="N68 43.357603" lon="W52 46.496324" isOnRunway="1" holdPointType="none"  />
+        <node index="8" lat="N68 43.270967" lon="W52 47.644506" isOnRunway="1" holdPointType="none"  />
+        <node index="9" lat="N68 43.276781" lon="W52 47.570657" isOnRunway="1" holdPointType="none"  />
+        <node index="10" lat="N68 43.247147" lon="W52 47.596724" isOnRunway="0" holdPointType="none"  />
+        <node index="11" lat="N68 43.228902" lon="W52 47.494137" isOnRunway="0" holdPointType="none"  />
+        <node index="12" lat="N68 43.238756" lon="W52 47.499249" isOnRunway="0" holdPointType="none"  />
+        <node index="13" lat="N68 43.186101" lon="W52 47.582099" isOnRunway="0" holdPointType="none"  />
+ </TaxiNodes>
+ <TaxiWaySegments>
+        <arc begin="10" end="3" isPushBackRoute="0" name=""  />
+        <arc begin="3" end="10" isPushBackRoute="0" name=""  />
+        <arc begin="4" end="9" isPushBackRoute="0" name=""  />
+        <arc begin="9" end="4" isPushBackRoute="0" name=""  />
+        <arc begin="5" end="4" isPushBackRoute="0" name=""  />
+        <arc begin="4" end="5" isPushBackRoute="0" name=""  />
+        <arc begin="6" end="5" isPushBackRoute="0" name=""  />
+        <arc begin="5" end="6" isPushBackRoute="0" name=""  />
+        <arc begin="10" end="6" isPushBackRoute="0" name=""  />
+        <arc begin="6" end="10" isPushBackRoute="0" name=""  />
+        <arc begin="0" end="11" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="11" end="0" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="11" end="3" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="3" end="11" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="1" end="12" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="12" end="1" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="12" end="3" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="3" end="12" isPushBackRoute="1" name="Small_Executive_Aircraft"  />
+        <arc begin="2" end="13" isPushBackRoute="1" name="Small_Commercial_Liners"  />
+        <arc begin="13" end="2" isPushBackRoute="1" name="Small_Commercial_Liners"  />
+        <arc begin="13" end="3" isPushBackRoute="1" name="Small_Commercial_Liners"  />
+        <arc begin="3" end="13" isPushBackRoute="1" name="Small_Commercial_Liners"  />
+ </TaxiWaySegments>
+</groundnet>

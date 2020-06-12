@@ -1,0 +1,27 @@
+data/shapefiles/osm_primary/		# "highway" ILIKE '%primary' AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+data/shapefiles/osm_secondary/		# ( "highway" ILIKE '%secondary' OR  "highway" ILIKE '%primary_link%' ) AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+data/shapefiles/osm_tertiary/		# ( "highway" ILIKE '%tertiary' OR  "highway" ILIKE '%tertiary_link%' OR  "highway" ILIKE '%secondary_link%' ) AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+data/shapefiles/osm_other_roads/	# ( "highway" ILIKE '%residential%' OR  "highway" ILIKE '%service%' OR  "highway" ILIKE '%unclassified%' ) AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+data/shapefiles/osm_track/		# "highway" ILIKE '%track%' AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+data/shapefiles/osm_path/		# ( "highway" ILIKE '%path%' OR "highway" ILIKE '%footway%'  ) AND NOT "other_tags" LIKE '%bridge%' AND NOT "other_tags" LIKE '%tunnel%'
+
+ogr-decode --max-segment 500 --line-width 3 --area-type Stream work/Stream data/shapefiles/osm_stream/
+ogr-decode --max-segment 500 --line-width 8 --area-type Stream work/Stream data/shapefiles/osm_river/
+ogr-decode --max-segment 500 --line-width 6 --area-type Railroad work/Railroad data/shapefiles/osm_railway/
+
+ogr-decode --max-segment 500 --area-type Industrial work/Industrial data/shapefiles/osm_industrial/
+ogr-decode --max-segment 500 --area-type Commercial work/Commercial data/shapefiles/osm_commercial/
+ogr-decode --max-segment 500 --area-type Construction work/Construction data/shapefiles/osm_construction/
+ogr-decode --max-segment 500 --area-type Sand work/Sand data/shapefiles/osm_sand/
+ogr-decode --max-segment 500 --area-type Lake work/Lake data/shapefiles/osm_lake/
+ogr-decode --max-segment 500 --area-type Town work/Town data/shapefiles/osm_town/
+ogr-decode --max-segment 500 --area-type RainForest work/RainForest data/shapefiles/osm_forest/
+ogr-decode --max-segment 500 --area-type Meadow work/Meadow data/shapefiles/osm_meadow/
+ogr-decode --max-segment 500 --area-type GolfCourse work/GolfCourse data/shapefiles/osm_golfcourse/
+ogr-decode --max-segment 500 --area-type Scrub work/Scrub data/shapefiles/osm_scrub/
+ogr-decode --max-segment 500 --area-type Rock work/Rock data/shapefiles/osm_rock/
+ogr-decode --max-segment 500 --area-type Dump work/Dump data/shapefiles/osm_dump/
+ogr-decode --max-segment 500 --area-type Grassland work/Grassland data/shapefiles/osm_grassland/
+ogr-decode --max-segment 500 --area-type Lava work/Lava data/shapefiles/osm_lava/
+ogr-decode --max-segment 500 --area-type Airport work/Airport data/shapefiles/osm_airport/
+ogr-decode --max-segment 500 --area-type ShrubGrassCover work/ShrubGrassCover data/shapefiles/osm_landmass/

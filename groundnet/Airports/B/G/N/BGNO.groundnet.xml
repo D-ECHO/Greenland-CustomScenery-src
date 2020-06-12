@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Ramp_Start" lat="N81 35.792441" lon="W16 39.943299" heading="178.1"  radius="36" airlineCodes="" />
+ </parkingList>
+</groundnet>

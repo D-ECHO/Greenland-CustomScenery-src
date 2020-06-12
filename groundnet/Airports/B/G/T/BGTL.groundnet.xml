@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Mil_Cargo_Ramp__1" lat="N76 32.096036" lon="W68 42.169102" heading="9.26"  radius="32" airlineCodes="" />
+        <Parking index="1" type="gate" name="Mil_Cargo_Ramp__2" lat="N76 32.108201" lon="W68 42.490355" heading="9.26"  radius="32" airlineCodes="" />
+        <Parking index="2" type="gate" name="Mil_Cargo_Ramp__3" lat="N76 32.115710" lon="W68 43.256574" heading="360"  radius="32" airlineCodes="" />
+        <Parking index="3" type="gate" name="Mil_Cargo_Ramp__4" lat="N76 32.115971" lon="W68 43.554517" heading="360"  radius="32" airlineCodes="" />
+        <Parking index="4" type="gate" name="Military_Ramp__1" lat="N76 32.116053" lon="W68 43.853998" heading="-21.93"  radius="32" airlineCodes="" />
+        <Parking index="5" type="gate" name="Military_Ramp__2" lat="N76 32.103031" lon="W68 44.000871" heading="-23.1"  radius="32" airlineCodes="" />
+        <Parking index="6" type="gate" name="Military_Ramp__3" lat="N76 32.090540" lon="W68 44.138683" heading="-21.51"  radius="32" airlineCodes="" />
+        <Parking index="7" type="gate" name="Military_Ramp__4" lat="N76 32.077856" lon="W68 44.271797" heading="-20.15"  radius="32" airlineCodes="" />
+        <Parking index="8" type="gate" name="Military_Ramp__5" lat="N76 31.997481" lon="W68 45.367518" heading="342"  radius="20" airlineCodes="" />
+ </parkingList>
+</groundnet>
