@@ -15,6 +15,10 @@ case $1 in
 	11) geo='--min-lon=-52 --max-lon=-48 --min-lat=60 --max-lat=62';; # South-Eastern Region: BGAR, ?!BGGD, ?!"Groennedal Heliport"
 	12) geo='--min-lon=-58 --max-lon=-49 --min-lat=69 --max-lat=78';; # East Coast - Northern Part Region: !!BGKQ, !!BGNU, !!BGTA, !!BGIN, BGAG, BGUK, !!BGKS, !!BGKL, !!BGNQ, !!BGLL, !!BGUT, !!BGST, !!BGNT, BGUQ, !!BGUM, !!BGIA, !!BGAT, !!BGSQ, !!BGQE, !!BGGN, BGJN, !!BGIL
 	13) geo='--min-lon=-54 --max-lon=-49 --min-lat=62 --max-lat=69';; # East Coast - Southern Part Region: !!BGKT, !!BGCH, (Akunnaq), BGAA, (Iginniarfiq), !!BGIT, !!BGKA, !!BGNK, !!BGIK, !!BGIG, BGSF, BGSS, BGMQ, BGGH, BGPT, !!BGFH
+	14) geo='--min-lon=-52.8 --max-lon=-52.7 --min-lat=68.7 --max-lat=68.8';; # only BGAA for test
+	15) geo='--min-lon=-53.0 --max-lon=-52.8 --min-lat=65.3 --max-lat=65.5';; # only BGMQ for test
+	16) geo='--min-lon=-69.0 --max-lon=-68.5 --min-lat=76.4 --max-lat=76.6';; # only BGTL for test
+	17) geo='--min-lon=-56.2 --max-lon=-56.1 --min-lat=72.7 --max-lat=72.8';; # only BGUK for test
 esac
 echo $1
 echo $geo

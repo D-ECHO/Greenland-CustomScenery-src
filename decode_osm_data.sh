@@ -24,4 +24,4 @@ ogr-decode --max-segment 500 --area-type Dump work/Dump data/shapefiles/osm_dump
 ogr-decode --max-segment 500 --area-type Grassland work/Grassland data/shapefiles/osm_grassland/
 ogr-decode --max-segment 500 --area-type Lava work/Lava data/shapefiles/osm_lava/
 ogr-decode --max-segment 500 --area-type Airport work/Airport data/shapefiles/osm_airport/
-ogr-decode --max-segment 500 --area-type ShrubGrassCover work/ShrubGrassCover data/shapefiles/osm_landmass/
+ogr-decode --max-segment 500 --area-type Default work/Default data/shapefiles/osm_landmass/

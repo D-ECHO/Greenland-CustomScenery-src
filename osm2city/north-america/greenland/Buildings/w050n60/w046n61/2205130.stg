@@ -1,6 +1,6 @@
 # osm2city_w050n60_w046n61_2205130
 # do not edit below this line
-# Last Written Thu Jun 11 20:17:46 2020
+# Last Written Sat Jun 13 12:59:47 2020
 #
 BUILDING_LIST w050n60_w046n61_2205130_buildings_shader.txt OSMBuildings -45.40000 61.16250 86.94
 OBJECT_BUILDING_MESH_ROUGH w050n60_w046n61_2205130city10201.ac -45.42191 61.15847 63.52 0
